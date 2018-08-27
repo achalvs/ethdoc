@@ -40,7 +40,7 @@ $ ethdoc generate otherDirectory/ -s
 
 ### Development
 
-Ethdoc is built using [Next.js](https://github.com/zeit/next.js/) which is a framework created by the incredible team at [ZEIT](https://zeit.co/).
+Ethdoc is built using [Next.js](https://github.com/zeit/next.js/), thanks to the team at [ZEIT](https://zeit.co/).
 
 ##### 1. Install Dependencies
 ```
